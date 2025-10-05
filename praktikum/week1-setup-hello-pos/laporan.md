@@ -95,9 +95,9 @@ public class HelloFunctional {
 
 ## Hasil Eksekusi
 Sertakan screenshot hasil eksekusi program.  
-1. ![Screenshot hasil](.\screenshots\HasilFunctional.png)
-2. ![Screenshot hasil](.\screenshots\HasilOOP.png)
-3. ![Screenshot hasil](.\screenshots\HasilProcedural.png)
+1. ![Screenshot hasil](./screenshots/HasilFunctional.png)
+2. ![Screenshot hasil](./screenshots/HasilOOP.png)
+3. ![Screenshot hasil](./screenshots/HasilProcedural.png)
 
 ---
 
