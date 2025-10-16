@@ -41,7 +41,7 @@ Topik: "Class dan Object (Produk Pertanian)"
    - Buat file `MainProduk.java`.
    - Instansiasi minimal tiga objek produk, misalnya "Benih Padi", "Pupuk Urea", dan satu produk alat pertanian.
    - Tampilkan informasi produk melalui method getter.
-   - Panggil `CreditBy.print("240202889", "Wahyu Tri Cahya")` di akhir main.
+   - Panggil `CreditBy.print("240202901", "Leila Aristawati")` di akhir main.
 4. **Commit dan Push**
    - Commit dengan pesan: `week2-class-object`.
 
@@ -142,7 +142,7 @@ public class MainProduk {
 
 ## Hasil Eksekusi
 (Sertakan screenshot hasil eksekusi program.  
-![Screenshot hasil](.\screenshots\HasilMainProduk.png)
+![Screenshot hasil](./screenshots/HasilMainProduk.png)
 )
 ---
 
