@@ -119,7 +119,7 @@ Sertakan screenshot hasil eksekusi program.
    c. Lalu m.sapa();
          Memanggil metode sapa() dari objek m.
          Metode ini mencetak:
-            Hello World, I am Leila-240202901
+          Hello World, I am Leila-240202901
 
 3. Functional
    a. Program tetap mulai dari main().
