@@ -169,10 +169,8 @@ public class MainInheritance {
 
 ---
 
-## Hasil Eksekusi
-(Sertakan screenshot hasil eksekusi program.  
+## Hasil Eksekusi 
 ![Screenshot hasil](/screenshots/week3-inheritance.png)
-)
 ---
 
 ## Analisis
