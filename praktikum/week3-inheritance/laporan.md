@@ -170,7 +170,7 @@ public class MainInheritance {
 ---
 
 ## Hasil Eksekusi 
-![Screenshot hasil](/screenshots/week3-inheritance.png)
+![Screenshot hasil](./screenshots/week3-inheritance.png)
 ---
 
 ## Analisis
