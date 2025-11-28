@@ -153,7 +153,6 @@ Struktur class yang digunakan pada Agri-POS.
   **DIP**           |     Bergantung pada abstraksi |     CheckoutService
                                                           bergantung pada
                                                           IPaymentMethod               |
-  ------------------------------------------------------------------------
 
 ---
 
