@@ -182,7 +182,7 @@ Struktur class yang digunakan pada Agri-POS.
 # 4. Quiz
 
 ### 1. Jelaskan perbedaan **aggregation** dan **composition** serta berikan contoh penerapannya pada desain Anda.
-  -	**Aggregation:** hubungan lemah (Kasir ↔ Store).\
+  -	**Aggregation:** hubungan lemah (Kasir ↔ Store).
   -	**Composition:** hubungan kuat (Cart → CartItem).
 
 ### 2. Bagaimana prinsip **Open/Closed** dapat memastikan sistem mudah dikembangkan?
